@@ -1,52 +1,57 @@
-## Hi there 👋
+# 👨‍💻 Victor Nascimento
 
-<h1 align="center">Olá! 👋 Eu sou João VIctor, mas pode me chamar de Victor</h1>
-
-<p align="center">
-  💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🧠 Sempre aprendendo
-</p>
+### Desenvolvedor em formação | Foco em Programação e Cybersegurança  
+Da base ao alto nível, um passo por dia.  
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+## 👋 Sobre mim
+Olá! Sou Victor Nascimento, estudante e entusiasta de tecnologia com foco em programação e segurança cibernética.  
+Atualmente estou me aprofundando em Python, automação e fundamentos de segurança, buscando aplicar o conhecimento de forma prática através de projetos e desafios.  
 
-![HTML](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code)
-
-> Adicione ou remova tecnologias conforme seu stack!
+Além da tecnologia, sou praticante de Jiu-Jitsu, o que fortalece minha disciplina, resiliência e mentalidade de evolução contínua — valores que também aplico no aprendizado e na carreira.  
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tecnologias e Ferramentas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-### 📫 Como me encontrar
-
-- 💼 [LinkedIn](www.linkedin.com/in/joão-victor-pereira-do-nascimento-7566a6231l)
-- 🐙 [GitHub]https://github.com/victornbjj)
-- 📬 Email: victorifpb78@email.com
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=yellow)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-000?style=flat&logo=kalilinux&logoColor=blue)
 
 ---
 
-### ✍️ Sobre mim
-
-- 🌱 Atualmente aprendendo: **[tecnologia/javascript]**
-- 🎯 Objetivo: contribuir em projetos open-source e evoluir como dev
-- ⚡ Curiosidade: [Tenho pratíca com montagens e reparo de software]
+## 🧠 Em estudo no momento
+- [ ] Python avançado (APIs, automação, testes)  
+- [ ] Fundamentos de AWS (Cloud Practitioner)  
+- [ ] Linux + Shell Script  
+- [ ] Redes e Segurança (bases para pentest)  
 
 ---
+
+## 🚀 Projetos em andamento
+- Script de automação em Python (em breve)  
+- Laboratório de segurança / Kali Linux (em breve)  
+- Pequenos desafios de programação e cibersegurança  
+
+---
+
+## 📈 Estatísticas do GitHub
+![Victor Nascimento's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victornbjj&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victornbjj&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+- LinkedIn: [João Victor](https://www.linkedin.com/in/joão-victor-pereira-do-nascimento-7566a6231)  
+- Email: *victorifpb78@gmail.com*  
+
+---
+
+💡 “Da base ao alto nível, um passo por dia.”
 
 ### ☕ Vamos trocar uma ideia?
 
