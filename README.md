@@ -25,9 +25,9 @@ Além da tecnologia, sou praticante de Jiu-Jitsu, o que fortalece minha discipli
 ---
 
 ## 🧠 Em estudo no momento
-- [ ] Python avançado (APIs, automação, testes)  
+- [x] Python avançado (APIs, automação, testes)  
 - [ ] Fundamentos de AWS (Cloud Practitioner)  
-- [ ] Linux + Shell Script  
+- [x] Linux + Shell Script  
 - [ ] Redes e Segurança (bases para pentest)  
 
 ---
