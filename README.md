@@ -1,6 +1,6 @@
 # 👨‍💻 Victor Nascimento
 
-### Desenvolvedor em formação | Foco em Programação e Cybersegurança  
+### Desenvolvedor web em formação  
 Da base ao alto nível, um passo por dia.  
 
 ---
