@@ -39,7 +39,7 @@ Além da tecnologia, pratico **Jiu-Jitsu**, esporte que fortalece minha discipli
 
 ### 🔹 Projeto 01 – CONSTURORA IMOBILIADRIA 
 
-**TAplicação Flask modular (App Factory + Blueprints) para exibir e gerenciar imóveis com autenticação, upload de imagens e dashboard administrativo.
+Aplicação Flask modular (App Factory + Blueprints) para exibir e gerenciar imóveis com autenticação, upload de imagens e dashboard administrativo.
 
 🔗 **Repositório:** [https://github.com/seu-usuario/seu-projeto](https://github.com/victornbjj/LC-CONSTUTORA.git)
 🌐 **Demo / Site:** [https://seusite.com](lc-constutora-5.onrender.com/)
@@ -48,11 +48,11 @@ Além da tecnologia, pratico **Jiu-Jitsu**, esporte que fortalece minha discipli
 
 ### 🔹 Projeto 02 – *PORTIFOLIO*
 
-**Descrição:**Portfolio para aluna de design gráficos.
-**Tecnologias:**HYMLC, CSS, JS
+Descrição:Portfolio para aluna de design gráficos.
+Tecnologias:HTML, CSS, JS
 
-🔗 **Repositório:** [https://github.com/seu-usuario/seu-projeto](https://github.com/victornbjj/portifolio_valdeise_patricia_joao-victor.git)
-🌐 **Demo / Site:** [https://seusite.com](https://patricia-de-oliveira.github.io/portifolio_valdeise_patricia_joao-victor/)
+🔗 Repositório: [https://github.com/seu-usuario/seu-projeto](https://github.com/victornbjj/portifolio_valdeise_patricia_joao-victor.git)
+🌐 Demo / Site: [https://seusite.com](https://patricia-de-oliveira.github.io/portifolio_valdeise_patricia_joao-victor/)
 
 ---
 
