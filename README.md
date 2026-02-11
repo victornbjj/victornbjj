@@ -2,7 +2,6 @@
 
 ### Desenvolvedor Full Stack (Foco em Back-End)
 
-**Construindo soluções completas, com base sólida no back-end.**
 
 ---
 
