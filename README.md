@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio%20Online-000000?style=for-the-badge&logoColor=00d4ff)](https://victornbjj.github.io/joao-victor-dev/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio%20Online-000000?style=for-the-badge&logoColor=00d4ff)](https://www.linkedin.com/in/victornascidev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victornascidev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorifpb78@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victornbjj)
@@ -162,7 +162,7 @@ Status   : Estudando, construindo e evoluindo 🚀
 | Canal | Link |
 |---|---|
 | 🌐 Portfólio | [victornbjj.github.io/joao-victor-dev](https://victornbjj.github.io/joao-victor-dev/) |
-| 💼 LinkedIn | [João Victor Pereira do Nascimento](www.linkedin.com/in/victornascidev) |
+| 💼 LinkedIn | [João Victor Pereira do Nascimento](https://www.linkedin.com/in/victornascidev) |
 | 📧 Email | victorifpb78@gmail.com |
 | 📱 Telefone | +55 83 9921-7139 |
 
