@@ -162,7 +162,7 @@ Status   : Estudando, construindo e evoluindo 🚀
 | Canal | Link |
 |---|---|
 | 🌐 Portfólio | [victornbjj.github.io/joao-victor-dev](https://victornbjj.github.io/joao-victor-dev/) |
-| 💼 LinkedIn | [João Victor Pereira do Nascimento](https://www.linkedin.com/in/joão-victor-pereira-do-nascimento-7566a6231) |
+| 💼 LinkedIn | [João Victor Pereira do Nascimento](www.linkedin.com/in/victornascidev) |
 | 📧 Email | victorifpb78@gmail.com |
 | 📱 Telefone | +55 83 9921-7139 |
 
