@@ -86,6 +86,20 @@ Status   : Estudando, construindo e evoluindo 🚀
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>💰 FinanceController</h3>
+      <p>API REST para controle de finanças pessoais com resumo de receitas, despesas e saldo. Documentação interativa via <strong>Swagger UI</strong> e deploy containerizado.</p>
+      <p><strong>Stack:</strong> Java · Spring Boot 3 · PostgreSQL · Docker</p>
+      <a href="https://github.com/victornbjj/FinanceController"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 NF Manager</h3>
+      <p>Ferramenta CLI para automatizar o processamento, renomeação e registro de notas fiscais em planilha Excel. Suporte a lote, validação de dados e formatação BR nativa.</p>
+      <p><strong>Stack:</strong> Python · openpyxl</p>
+      <a href="https://github.com/victornbjj/nf-manager"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📝 API REST – Blog</h3>
       <p>API REST para sistema de blog com operações CRUD completas. Em desenvolvimento e evolução contínua.</p>
       <p><strong>Stack:</strong> Python · Flask · SQLite</p>
@@ -117,9 +131,13 @@ Status   : Estudando, construindo e evoluindo 🚀
 | Certificado | Instituição | Status |
 |---|---|---|
 | Sistemas para Internet | UNIESP | 🎓 Em andamento |
-| Java SpringBoot | Rocketseat | ✅ Concluído |
-| Aprendendo Python | ENAP- Escola nascional de Administração Publica| ✅ Concluído |
-| Lei geral de proteção de dados(LGPD) | Fundação Bradesco | ✅ Concluído |
+| AI Generativa do Zero ao Avançado | Udemy | ✅ Concluído |
+| Java COMPLETO — Programação Orientada a Objetos | Udemy | ✅ Concluído |
+| Java Spring Boot | Rocketseat | ✅ Concluído |
+| Python para Análise de Dados, Git e GitHub | DIO | ✅ Concluído |
+| Aprendendo Python | ENAP — Escola Nacional de Administração Pública | ✅ Concluído |
+| Excel Intermediário e LGPD | Fundação Bradesco | ✅ Concluído |
+| Workshop AWS Cloud Practitioner | Programa AI · Abr/2026 | ✅ Concluído |
 
 > 🔄 *Seção atualizada conforme novos certificados forem conquistados.*
 
