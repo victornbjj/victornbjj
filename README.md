@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=João%20Victor%20Nascimento&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Desenvolvedor %20Java%20Developer%20·%20Back-End%20Focus&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=João%20Victor%20Nascimento&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Desenvolvedor%20Java%20·%20Spring%20Boot%20·%20Docker%20·%20AWS&descAlignY=58&descColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -46,7 +46,7 @@ Status   : Estudando, construindo e evoluindo 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=MySQL&logoColor=003B57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![H2](https://img.shields.io/badge/H2%20Database-000?style=flat-square&logo=databricks&logoColor=white)
 
