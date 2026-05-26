@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=João%20Victor%20Nascimento&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Back-End%20Focus&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=João%20Victor%20Nascimento&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Desenvolvedor %20Java%20Developer%20·%20Back-End%20Focus&descAlignY=58&descColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfólio%20Online-000000?style=for-the-badge&logoColor=00d4ff)](https://victornbjj.github.io/joao-victor-dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victornascidev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorifpb78@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victornasci.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victornbjj)
 
 </div>
@@ -37,7 +37,6 @@ Status   : Estudando, construindo e evoluindo 🚀
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00d4ff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD43B)
-![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-000?style=flat-square&logo=fastapi&logoColor=009688)
 
@@ -47,7 +46,7 @@ Status   : Estudando, construindo e evoluindo 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ### 🗄️ Banco de Dados
-![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=003B57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![H2](https://img.shields.io/badge/H2%20Database-000?style=flat-square&logo=databricks&logoColor=white)
 
@@ -133,7 +132,7 @@ Status   : Estudando, construindo e evoluindo 🚀
 | Sistemas para Internet | UNIESP | 🎓 Em andamento |
 | AI Generativa do Zero ao Avançado | Udemy | ✅ Concluído |
 | Java COMPLETO — Programação Orientada a Objetos | Udemy | ✅ Concluído |
-| Java Spring Boot | Rocketseat | ✅ Concluído |
+| IA & Java   | Santander | ✅ Concluído |
 | Python para Análise de Dados, Git e GitHub | DIO | ✅ Concluído |
 | Aprendendo Python | ENAP — Escola Nacional de Administração Pública | ✅ Concluído |
 | Excel Intermediário e LGPD | Fundação Bradesco | ✅ Concluído |
@@ -181,7 +180,7 @@ Status   : Estudando, construindo e evoluindo 🚀
 |---|---|
 | 🌐 Portfólio | [victornbjj.github.io/joao-victor-dev](https://victornbjj.github.io/joao-victor-dev/) |
 | 💼 LinkedIn | [João Victor Pereira do Nascimento](https://www.linkedin.com/in/victornascidev) |
-| 📧 Email | victorifpb78@gmail.com |
+| 📧 Email | victornasci.dev@gmail.com |
 | 📱 Telefone | +55 83 9921-7139 |
 
 </div>
