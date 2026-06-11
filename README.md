@@ -22,9 +22,7 @@
 Nome     : João Victor Pereira do Nascimento
 Cidade   : João Pessoa — PB 🇧🇷
 Foco     : Back-End Development
-Stack    : Java · Spring Boot · Python · Django · Flask
-Esporte  : Jiu-Jitsu 🥋 (disciplina e constância)
-Status   : Estudando, construindo e evoluindo 🚀
+Stack    : Java · Spring Boot · Python · Flask
 ```
 
 > Apaixonado por tecnologia desde os 12 anos, hoje construo aplicações back-end escaláveis, APIs RESTful e sistemas bem estruturados. Sou movido pelo aprendizado contínuo e pela mentalidade de sempre melhorar — dentro e fora do tatame.
@@ -148,7 +146,6 @@ Status   : Estudando, construindo e evoluindo 🚀
 ☕  Java avançado e boas práticas de código limpo
 🚀  Spring Boot — APIs REST, arquitetura em camadas
 ☁️  Cloud Computing — fundamentos e deploy
-🐍  Django — aplicações web robustas
 🔐  Segurança em APIs e autenticação JWT
 📦  Docker e containerização de aplicações
 ```
