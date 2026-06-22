@@ -112,9 +112,9 @@ Stack    : Java · Spring Boot · Python · Flask
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🌐 Portfólio Pessoal</h3>
-      <p>Meu portfólio online com projetos, tecnologias, habilidades e informações de contato. Desenvolvido com HTML, CSS e JavaScript puro.</p>
-      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
+      <h3>🌐 Clinic API</h3>
+      <p> API REST para gestão de consultório médico com autenticação JWT e controle de acesso RBAC (ADMIN, MEDICO, CLIENTE).</p>
+      <p><strong>Stack:</strong> Java 21, Spring Boot 3.4, Spring Security, JWT, Spring Data JPA, Flyway, OpenFeign, Docker, Swagger</p>
       <a href="https://github.com/victornbjj/joao-victor-dev"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
       <a href="https://victornbjj.github.io/joao-victor-dev/"><img src="https://img.shields.io/badge/Acessar%20Portfólio-00d4ff?style=flat-square&logo=githubpages&logoColor=black"/></a>
     </td>
