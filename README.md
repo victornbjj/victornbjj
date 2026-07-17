@@ -21,11 +21,11 @@
 ```bash
 Nome     : João Victor Pereira do Nascimento
 Cidade   : João Pessoa — PB 🇧🇷
-Foco     : Back-End Development
-Stack    : Java · Spring Boot · Python · Flask
+Foco     : Software Engineer
+Stack    : Java · Spring Boot · Python · Flask & FastAPI
 ```
 
-> Apaixonado por tecnologia desde os 12 anos, hoje construo aplicações back-end escaláveis, APIs RESTful e sistemas bem estruturados. Sou movido pelo aprendizado contínuo e pela mentalidade de sempre melhorar — dentro e fora do tatame.
+> Apaixonado por tecnologia, construo aplicações back-end escaláveis, APIs RESTful e soluções com IA. Sou movido pelo aprendizado contínuo e pela mentalidade de sempre melhorar.
 
 ---
 
@@ -36,7 +36,7 @@ Stack    : Java · Spring Boot · Python · Flask
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD43B)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000?style=flat-square&logo=fastapi&logoColor=009688)
+![Fast API](https://img.shields.io/badge/REST%20API-000?style=flat-square&logo=fastapi&logoColor=009688)
 
 ### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
