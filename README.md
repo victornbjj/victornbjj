@@ -1,191 +1,126 @@
 <div align="center">
 
-<!-- Banner animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=João%20Victor%20Nascimento&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Desenvolvedor%20Java%20·%20Spring%20Boot%20·%20Docker%20·%20AWS&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+# João Victor Nascimento
+
+**Software Engineer** — Java · Spring Boot · APIs REST · Docker · AWS
+
+João Pessoa, PB · Brasil
+
+[Portfólio](https://victornbjj.github.io/joao-victor-dev/) · [LinkedIn](https://www.linkedin.com/in/victornascidev) · [Email](mailto:victornasci.dev@gmail.com) · [GitHub](https://github.com/victornbjj)
 
 </div>
 
-<div align="center">
+<br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio%20Online-000000?style=for-the-badge&logoColor=00d4ff)](https://victornbjj.github.io/joao-victor-dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victornascidev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victornasci.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victornbjj)
+Software Engineer especializado em **Java/Spring Boot**, com experiência em produção construindo APIs REST, autenticação JWT e arquitetura em camadas. Na LC Construtora, criei automações que reduziram o tempo de processamento de dados em **~30%**. Atualmente sou Monitor de Programação Java na UNIESP, ensinando POO e revisando código com foco em Clean Code e SOLID.
 
-</div>
+<br>
 
----
-
-## `$ whoami`
-
-```bash
-Nome     : João Victor Pereira do Nascimento
-Cidade   : João Pessoa — PB 🇧🇷
-Foco     : Software Engineer
-Stack    : Java · Spring Boot · Python · Flask & FastAPI
-```
-
-> Apaixonado por tecnologia, construo aplicações back-end escaláveis, APIs RESTful e soluções com IA. Sou movido pelo aprendizado contínuo e pela mentalidade de sempre melhorar.
-
----
-
-## 🛠️ Stack & Ferramentas
-
-### 💻 Back-End
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00d4ff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Fast API](https://img.shields.io/badge/REST%20API-000?style=flat-square&logo=fastapi&logoColor=009688)
-
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=MySQL&logoColor=003B57)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![H2](https://img.shields.io/badge/H2%20Database-000?style=flat-square&logo=databricks&logoColor=white)
-
-### ⚙️ DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=FF6C37)
-
-### 🧩 Metodologias & Conceitos
-![OOP](https://img.shields.io/badge/OOP-000?style=flat-square&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-000?style=flat-square&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-000?style=flat-square&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-000?style=flat-square&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
+## Stack
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ Sistema Web Imobiliário</h3>
-      <p>Aplicação web modular com painel administrativo, autenticação, upload de imagens e dashboard. Padrão <strong>App Factory + Blueprints</strong>.</p>
-      <p><strong>Stack:</strong> Python · Flask · SQLite</p>
-      <a href="https://github.com/victornbjj/LC-CONSTRUTORA"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://lc-constutora-5.onrender.com"><img src="https://img.shields.io/badge/Demo%20Live-00d4ff?style=flat-square&logo=render&logoColor=black"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 API REST – Todo List</h3>
-      <p>API REST para gerenciamento de lista de tarefas e usuários com arquitetura em camadas e deploy em produção.</p>
-      <p><strong>Stack:</strong> Java · Spring Boot · H2 Database</p>
-      <a href="https://github.com/victornbjj/ProjectSpring"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://todolista-2780.onrender.com"><img src="https://img.shields.io/badge/Demo%20Live-00d4ff?style=flat-square&logo=render&logoColor=black"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 FinanceController</h3>
-      <p>API REST para controle de finanças pessoais com resumo de receitas, despesas e saldo. Documentação interativa via <strong>Swagger UI</strong> e deploy containerizado.</p>
-      <p><strong>Stack:</strong> Java · Spring Boot 3 · PostgreSQL · Docker</p>
-      <a href="https://github.com/victornbjj/FinanceController"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧾 NF Manager</h3>
-      <p>Ferramenta CLI para automatizar o processamento, renomeação e registro de notas fiscais em planilha Excel. Suporte a lote, validação de dados e formatação BR nativa.</p>
-      <p><strong>Stack:</strong> Python · openpyxl</p>
-      <a href="https://github.com/victornbjj/nf-manager"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📝 API REST – Blog</h3>
-      <p>API REST para sistema de blog com operações CRUD completas. Em desenvolvimento e evolução contínua.</p>
-      <p><strong>Stack:</strong> Python · Flask · SQLite</p>
-      <img src="https://img.shields.io/badge/Em%20Desenvolvimento-FFD700?style=flat-square&logoColor=black"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Portfólio Web Colaborativo</h3>
-      <p>Portfólio desenvolvido colaborativamente para uma designer gráfica, com foco em identidade visual e responsividade.</p>
-      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
-      <a href="https://github.com/victornbjj/portifolio_valdeise_patricia_joao-victor"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://patricia-de-oliveira.github.io/portifolio_valdeise_patricia_joao-victor"><img src="https://img.shields.io/badge/Demo%20Live-00d4ff?style=flat-square&logo=githubpages&logoColor=black"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🌐 Clinic API</h3>
-      <p> API REST para gestão de consultório médico com autenticação JWT e controle de acesso RBAC (ADMIN, MEDICO, CLIENTE).</p>
-      <p><strong>Stack:</strong> Java 21, Spring Boot 3.4, Spring Security, JWT, Spring Data JPA, Flyway, OpenFeign, Docker, Swagger</p>
-      <a href="https://github.com/victornbjj/joao-victor-dev"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://victornbjj.github.io/joao-victor-dev/"><img src="https://img.shields.io/badge/Acessar%20Portfólio-00d4ff?style=flat-square&logo=githubpages&logoColor=black"/></a>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+Java · Spring Boot
+Spring Security · JWT
+Python · Flask · FastAPI
+Spring AI · OpenAI API
+
+</td>
+<td valign="top" width="33%">
+
+**Dados & Infra**
+PostgreSQL · MySQL · SQLite
+pgvector · Flyway
+Docker · AWS EC2
+GitLab CI/CD · GitHub Actions
+
+</td>
+<td valign="top" width="33%">
+
+**Qualidade & Práticas**
+JUnit 5 · Mockito · JaCoCo
+TestContainers · Postman
+SOLID · Clean Code
+Scrum · Kanban
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## 📚 Certificados & Cursos
+## Projetos em destaque
 
-| Certificado | Instituição | Status |
-|---|---|---|
-| Sistemas para Internet | UNIESP | 🎓 Em andamento |
-| AI Generativa do Zero ao Avançado | Udemy | ✅ Concluído |
-| Java COMPLETO — Programação Orientada a Objetos | Udemy | ✅ Concluído |
-| IA & Java   | Santander | ✅ Concluído |
-| Python para Análise de Dados, Git e GitHub | DIO | ✅ Concluído |
-| Aprendendo Python | ENAP — Escola Nacional de Administração Pública | ✅ Concluído |
-| Excel Intermediário e LGPD | Fundação Bradesco | ✅ Concluído |
-| Workshop AWS Cloud Practitioner | Programa AI · Abr/2026 | ✅ Concluído |
+<br>
 
-> 🔄 *Seção atualizada conforme novos certificados forem conquistados.*
+**🏥 Clinic API** — Sistema de gestão de consultório médico
+API REST com autenticação JWT e RBAC (ADMIN, MÉDICO, CLIENTE), integração com ViaCEP via OpenFeign e documentação Swagger.
+`Java 21` `Spring Boot 3.4` `Spring Security` `Spring Data JPA` `PostgreSQL` `Docker`
+→ [github.com/victornbjj/clinica-medica-api](https://github.com/victornbjj/clinica-medica-api)
 
----
+<br>
 
-## 🧠 Atualmente Estudando
+**🤖 Assistente RAG — YAITEC Atende**
+Assistente de perguntas e respostas com IA generativa sobre base de conhecimento própria, com citação da fonte na resposta. Pipeline completo de chunking, embeddings e retrieval vetorial.
+`Java 21` `Spring Boot 4.1` `Spring AI 2.0` `OpenAI API` `PostgreSQL + pgvector` `Docker`
+→ [github.com/victornbjj/teste_yaitec](https://github.com/victornbjj/teste_yaitec)
 
-```
-☕  Java avançado e boas práticas de código limpo
-🚀  Spring Boot — APIs REST, arquitetura em camadas
-☁️  Cloud Computing — fundamentos e deploy
-🔐  Segurança em APIs e autenticação JWT
-📦  Docker e containerização de aplicações
-```
+<br>
 
----
+**🔄 Pipeline CI/CD — GitLab Runner na AWS EC2**
+Pipeline de integração e deploy contínuo com GitLab Runner em instância EC2, automatizando build e deploy de containers Docker com publicação no Docker Hub.
+`AWS EC2` `Ubuntu Linux` `GitLab CI/CD` `Docker` `Docker Hub`
+→ [gitlab.com/victornbjj/projeto-cicd-exemplo](https://gitlab.com/victornbjj/projeto-cicd-exemplo)
 
-## 📊 GitHub Stats
+<br>
+
+**🏗️ Sistema de Imóveis — LC Construtora**
+Aplicação modular (App Factory + Blueprints) para gestão de imóveis, com autenticação por papéis, upload de imagens e dashboard administrativo. Testado com Pytest.
+`Python` `Flask` `SQLite` `Flask-Login` `Tailwind CSS` `Pytest`
+→ [github.com/victornbjj/LC-CONSTUTORA](https://github.com/victornbjj/LC-CONSTUTORA) · [demo](https://lc-constutora-5.onrender.com)
+
+<br>
+
+**💰 FinanceController**
+API REST para controle de finanças pessoais, com resumo de receitas, despesas e saldo. Documentação interativa via Swagger e deploy containerizado.
+`Java` `Spring Boot 3` `PostgreSQL` `Docker`
+→ [github.com/victornbjj/FinanceController](https://github.com/victornbjj/FinanceController)
+
+<br>
+
+## Experiência
+
+**Monitor de Programação Java** · UNIESP Centro Universitário
+*fev/2026 — presente*
+Ensino de lógica de programação e POO em Java; revisão de código com foco em Clean Code e SOLID; suporte técnico na resolução de problemas complexos.
+
+**Desenvolvedor Web Full-Stack** · LC Construtora
+*abr/2025 — jun/2026*
+Automação de dados via SQL, rotinas que reduziram o tempo de geração de relatórios em ~30%, backend Flask com RBAC e scripts Python para higienização de dados fiscais.
+
+<br>
+
+## Certificações
+
+Santander Bootcamp — AI Java Back-end · AI Generativa do Zero ao Avançado (Udemy) · Java Completo — POO (Udemy) · Python para Análise de Dados (DIO) · Workshop AWS Cloud Practitioner
+Sistemas para Internet — UNIESP *(em andamento, conclusão dez/2027)*
+
+<br>
+
+## GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victornbjj&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornbjj&layout=compact&theme=radical&bg_color=0d0d0d&border_color=00d4ff&title_color=00d4ff&text_color=ffffff"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=victornbjj&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=555555&text_color=333333"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornbjj&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=333333"/>
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=victornbjj&theme=radical&background=0d0d0d&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)
-
-</div>
-
----
-
-## 📫 Contato
+<br>
 
 <div align="center">
 
-| Canal | Link |
-|---|---|
-| 🌐 Portfólio | [victornbjj.github.io/joao-victor-dev](https://victornbjj.github.io/joao-victor-dev/) |
-| 💼 LinkedIn | [João Victor Pereira do Nascimento](https://www.linkedin.com/in/victornascidev) |
-| 📧 Email | victornasci.dev@gmail.com |
-| 📱 Telefone | +55 83 9921-7139 |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=Construindo%20soluções%20sólidas%2C%20um%20commit%20por%20vez.&fontSize=16&fontColor=00d4ff&fontAlignY=65&animation=fadeIn"/>
+📧 victornasci.dev@gmail.com · 📱 +55 83 99213-7139
 
 </div>
