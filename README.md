@@ -6,7 +6,7 @@
 
 João Pessoa, PB · Brasil
 
-[Portfólio](https://victornbjj.github.io/joao-victor-dev/) · [LinkedIn](https://www.linkedin.com/in/victornascidev) · [Email](mailto:victornasci.dev@gmail.com) · [GitHub](https://github.com/victornbjj)
+[Portfólio](https://victornasci-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/victornascidev) · [Email](mailto:victornasci.dev@gmail.com) · [GitHub](https://github.com/victornbjj)
 
 </div>
 
@@ -66,7 +66,7 @@ API REST com autenticação JWT e RBAC (ADMIN, MÉDICO, CLIENTE), integração c
 **🤖 Assistente RAG — YAITEC Atende**
 Assistente de perguntas e respostas com IA generativa sobre base de conhecimento própria, com citação da fonte na resposta. Pipeline completo de chunking, embeddings e retrieval vetorial.
 `Java 21` `Spring Boot 4.1` `Spring AI 2.0` `OpenAI API` `PostgreSQL + pgvector` `Docker`
-→ [github.com/victornbjj/teste_yaitec](https://github.com/victornbjj/teste_yaitec)
+→ [github.com/victornbjj/teste_yaitec](https://github.com/victornbjj/assistente_rag)
 
 <br>
 
